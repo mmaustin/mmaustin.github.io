@@ -1,11 +1,11 @@
 # Site settings
-author: mccray austin
-title: 
+author: McCray Austin
+title: What A Year!
 header-img: img/home-bg.png
 email: tubach75@hotmail.com
-copyright_name: mccray austin
+copyright_name: McCray Austin
 description: > # this means to ignore newlines until "baseurl:"
-  
+  Twenty Twenty
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  mmaustin
