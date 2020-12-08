@@ -1,0 +1,11 @@
+---
+layout: post
+title:      "A Leason From Law School"
+date:       2020-12-08 14:19:33 +0000
+permalink:  a_leason_from_law_school
+---
+
+
+As November advanced, and my progress in the programming class slowed, I remembered the advice given to me and every other student during that brutal first semester of law school.  Every professor and academic advisor kept saying: think like a lawyer.  I would nod and say ok, but to myself I would scream, "I have no idea what you're talking about when you say that!"  Still, I thought back on those words, as I, with zero confidence, began the first solo project.  I'm not quite sure how a developer thinks, but I knew that I was not thinking like one.  I was thinking like someone whose goal was to type "learn," see green, and submit.  I had become singularly concerned with was passing tests, and, while I was learning concepts and advancing, I definitely knew that I was not thinking like a developer--whatever that means.  The CLI project forced me to at least try to understand what that means, in a way that those first semester exams never did.
+
+After panicking for about two or three days and thinking that there is no way that I could ever complete the assignment, I began.  I made a conscious effort to try and cast aside as much of my doubt as possible and calmly think through the problems.  I say this with all humility, as I still have to undergo the assessment, but the forced calmness and concerted effort to try and think like a developer seemed to make completing the project, though very challenging, less stressful than many of the labs.  Do not get me wrong, it was definitely a taxing exercise, and to say that I am 100% confident in my result would be a lie.  However, when I began the project I was convinced that failure was the sure outcome, and now I have a program that actually works how I intended.  It's difficult for me to put into words, but I do think that mental switch from passer of tests to aspiring developer helped to get my program to work.  If I can maintain this mindset and not revert back to being primarily focused with passing tests, I think I will be better able to face the many challenges that the course is going to present.  If only I could go back to first semester . . . Well, it's too late for law school.
